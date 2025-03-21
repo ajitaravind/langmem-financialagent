@@ -1,5 +1,5 @@
 """
-Financial Document Analysis Agent with Episodic Memory
+Financial Document Analysis Agent with Semantic and Episodic Memory using LangMem
 """
 
 # Load environment variables
