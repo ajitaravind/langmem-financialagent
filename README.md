@@ -8,7 +8,7 @@ This toy example demonstrates a financial transaction analysis system that lever
 
 This demonstration project shows how to:
 
-- Implement dual memory systems (Episodic and Semantic) with LLMs
+- Implement dual memory systems (Episodic and Semantic) using LangMem from Langchain
 - Create intelligent processing workflows using LangGraph
 - Build pattern detection and learning capabilities
 - Structure decision-making pipelines
